@@ -14,7 +14,10 @@ public class Company extends Department{
 		}
 
 		public Company(int age) {
-				this("Hi");
+
+				this("Hi1");
+
+				
 				System.out.println("integer based constructor");	
 		}
 
